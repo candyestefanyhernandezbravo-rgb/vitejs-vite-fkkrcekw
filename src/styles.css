@@ -1,0 +1,9 @@
+*{ box-sizing: border-box; }
+body { margin: 0; font-family: Arial, sans-serif; background: #eef4ff; color: #1f2937; }
+.actividad { width: min(90%, 620px); margin: 45px auto; padding: 28px; background: white; 
+border-radius: 14px; box-shadow: 0 6px 18px #1f293722; text-align: center; }
+h1 { color: #1d4ed8; } button { margin: 6px; padding: 10px 16px; border: 0; border-radius: 8px;
+background: #2563eb; color: white; cursor: pointer; }
+input { width: 100%; padding: 10px; border: 1px solid #94a3b8; border-radius: 8px; font-size:
+16px; }
+ul { text-align: left; }
